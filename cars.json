@@ -1,0 +1,20 @@
+[
+  {
+    "nome": "Nissan Silvia S14",
+    "cor": "Branco",
+    "valor": "R$ 180.000,00",
+    "foto": "images/silvia-s14.jpg"
+  },
+  {
+    "nome": "Nissan Skyline R34 GT-R",
+    "cor": "Azul (Bayside Blue)",
+    "valor": "R$ 1.200.000,00",
+    "foto": "images/skyline-r34.jpg"
+  },
+  {
+    "nome": "Toyota Supra MK4",
+    "cor": "Laranja",
+    "valor": "R$ 720.000,00",
+    "foto": "images/supra-mk4.jpg"
+  }
+]

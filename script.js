@@ -1,11 +1,5 @@
 document.addEventListener("DOMContentLoaded", () => {
   const carContainer = document.getElementById("carContainer");
-  // const carContainer = document.getElementById("pageContent");
-  // const navLinks = document.querySelector(".topNav a");
-
-  // function loadCars() {
-  //   const carContainer = document.getElementById("carContainer");
-  // }
 
   fetch("cars.json")
     .then((response) => response.json())

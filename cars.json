@@ -1,7 +1,7 @@
 [
   {
     "nome": "Nissan Silvia S14",
-    "cor": "Branco",
+    "cor": "Cinza",
     "valor": "R$ 180.000,00",
     "foto": "images/silvia-s14.jpg"
   },
@@ -13,7 +13,7 @@
   },
   {
     "nome": "Toyota Supra MK4",
-    "cor": "Laranja",
+    "cor": "Cinza",
     "valor": "R$ 720.000,00",
     "foto": "images/supra-mk4.jpg"
   }

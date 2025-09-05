@@ -47,7 +47,7 @@ document.addEventListener("DOMContentLoaded", () => {
       });
     })
     .catch((error) => {
-      console.error("Erro ao carrer os dados dos carros:", error);
+      console.error("Erro ao carrergar os dados dos carros:", error);
       carContainer.textContent =
         "Não foi possível carregar os dados dos veículos, questione o Kremer à respeito, se ele não souber, CORRA!!";
     });
